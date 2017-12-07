@@ -9,7 +9,7 @@ import org.junit.Before;
 /**
  * Contains unit-tests to check functionality of {@link City} class
  * 
- * @author admin
+ * @author Bogdan
  *
  */
 public class CityTest {
