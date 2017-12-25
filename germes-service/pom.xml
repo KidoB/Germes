@@ -7,6 +7,7 @@
 		<version>0.0.9</version>
 	</parent>
 	<artifactId>germes-service</artifactId>
+	<version>${project.parent.version}</version>
 	<dependencyManagement>
 		<dependencies>
 			<dependency>
