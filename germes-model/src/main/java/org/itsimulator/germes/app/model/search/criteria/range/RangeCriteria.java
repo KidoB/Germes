@@ -1,6 +1,5 @@
 package org.itsimulator.germes.app.model.search.criteria.range;
 
-import org.itsimulator.germes.app.infra.exception.flow.InvalidParameterException;
 import org.itsimulator.germes.app.infra.util.Checks;
 
 /**
