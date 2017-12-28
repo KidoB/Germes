@@ -1,7 +1,7 @@
 package org.itsimulator.germes.app.infra.exception.base;
 
 /**
- * Bse class for all application-specific exception
+ * Base class for all application-specific exception
  * 
  * @author Morenets
  */
@@ -15,5 +15,9 @@ public abstract class AppException extends RuntimeException {
 
 	public AppException(String message) {
 		super(message);
+	}
+	
+	public AppException(Throwable throwable) {
+		super(throwable);
 	}
 }
